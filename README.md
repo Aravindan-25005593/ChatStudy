@@ -142,11 +142,11 @@ while True:
 ```
 ## Output:
 # Server:
-<img width="1481" height="945" alt="Screenshot 2026-05-12 142137" src="https://github.com/user-attachments/assets/5b5abf7e-7102-453a-a44f-1b600a13506b" />
+<img width="1481" height="945" alt="Cn 1b 1" src="https://github.com/user-attachments/assets/00f64f39-af03-4124-a528-3d5989fb1502" />
 
 
 # Client:
-<img width="1476" height="947" alt="Screenshot 2026-05-12 142115" src="https://github.com/user-attachments/assets/f22e4fbf-6a3f-45b9-a662-85cc4f4598ec" />
+<img width="1476" height="947" alt="cn 1b 2" src="https://github.com/user-attachments/assets/4b8357d5-4f4c-44ec-b35d-94b42312e770" />
 
 
 ## Result:
